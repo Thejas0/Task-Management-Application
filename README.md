@@ -18,8 +18,7 @@ The application allows users to create, update, and delete tasks. Tasks have a t
 # How to run
 
 bash
-'''
+
 cd server
 npm install
 npm run dev
-'''

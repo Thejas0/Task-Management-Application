@@ -19,7 +19,8 @@ The application allows users to create, update, and delete tasks. Tasks have a t
 Open 2 terminals,
   1. Server
   2. Client
-First, run the server 
+
+First, run the server
 Navigate to the server directory, install dependencies, and start the server in development mode:
 ```
 cd server
